@@ -1,6 +1,5 @@
 ## Personal Portfolio
 
-### [Live Site](https://jsmasterypro.com)
 
 ![Portfolio Website]
 
