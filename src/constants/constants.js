@@ -31,6 +31,22 @@ export const projects = [
    
     id: 3,
   },
+  {
+    title: 'BranDeal Platform Design',
+    description: "BranDeal is a platform where micro- to macro-influencers can register and search for fitting brand deals/sponsorships. Brands can put up offers which influencers can apply for.",
+    image: '/images/challenge.png',
+    tags: ['Figma'],
+   
+    id: 4,
+  },
+  {
+    title: 'Signup',
+    description: "A website for the user to find 3D Objects and illustrations",
+    image: '/images/Signup.png',
+    tags: ['Figma'],
+   
+    id: 5,
+  }
 ];
 
 export const TimeLineData = [
